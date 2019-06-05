@@ -5,3 +5,5 @@ Luis Aguilar tiene 23 años y nacio en México
 Hoy hablaremos de su historia
 
 En camara parece alto pero la verdad no es tan alto
+
+Ahora es programador de Python
